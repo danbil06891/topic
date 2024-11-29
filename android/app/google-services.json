@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "988846216402",
+    "firebase_url": "https://chathive-784d0-default-rtdb.firebaseio.com",
+    "project_id": "chathive-784d0",
+    "storage_bucket": "chathive-784d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988846216402:android:f452cb687d90c410c7c90b",
+        "android_client_info": {
+          "package_name": "com.example.hiv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGICQ2JL2f0YP8j-Qn2CCEc8Si0VgPnoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
